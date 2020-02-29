@@ -9,6 +9,7 @@ import io.restassured.response.Response;
 
 public class TestGoogleStatusCodeSD {
 	
+	
 	Response res ;
 	
 	@Given("^User hit google applicaiton$")
